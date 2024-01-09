@@ -1,0 +1,4 @@
+[flake8]
+max-line-length = 120
+ignore = W503, E133, E203, E226, E228, F811, N806
+exclude = .tox,.git,.venv,.env,*/migrations/*,*/static/*,docs,node_modules,docker,ci,requirements

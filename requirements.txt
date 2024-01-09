@@ -1,0 +1,5 @@
+langchain
+playwright
+beautifulsoup4
+openai
+tiktoken
